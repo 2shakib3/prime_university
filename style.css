@@ -3448,7 +3448,7 @@ ul.listing-style.modify li:before {
   .rs-menu
   ul.nav-menu
   li {
-  margin-right: 25px;
+  margin-right: 35px;
 }
 .full-width-header.header-style2
   .rs-header
@@ -10739,14 +10739,15 @@ body .modal-backdrop {
   display: block;
 }
 .rs-latest-couses .course-item .course-image a img {
-  object-fit: cover;
-  object-position: left;
+  /* object-fit: cover;
+  object-position: left; */
   height: 100%;
   width: 100%;
 }
 .rs-latest-couses .course-item .course-info {
   align-self: center;
   padding: 0px 30px;
+  width: 100%;
 }
 .rs-latest-couses .course-item .course-info .meta-part {
   padding-bottom: 5px;
