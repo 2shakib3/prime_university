@@ -10747,6 +10747,7 @@ body .modal-backdrop {
 .rs-latest-couses .course-item .course-info {
   align-self: center;
   padding: 0px 30px;
+  width: 100%;
 }
 .rs-latest-couses .course-item .course-info .meta-part {
   padding-bottom: 5px;
