@@ -10729,7 +10729,7 @@ body .modal-backdrop {
   border-radius: 300px 5px 5px 300px;
   display: flex;
   border: 1px solid #ceeaf0;
-  background: #ffffff;
+  background: #f5d2d226;
 }
 .rs-latest-couses .course-item .course-image a {
   width: 200px;
@@ -10746,7 +10746,7 @@ body .modal-backdrop {
 }
 .rs-latest-couses .course-item .course-info {
   align-self: center;
-  padding: 0px 30px;
+  padding: 5px 5px;
   width: 100%;
 }
 .rs-latest-couses .course-item .course-info .meta-part {
@@ -10814,15 +10814,15 @@ body .modal-backdrop {
   border-color: #ffffff;
 }
 .rs-latest-couses.orange-color .course-item {
-  border: 1px solid #ff542129;
+  border: 1px solid #283d67;
 }
 .rs-latest-couses.orange-color .course-item .course-info .course-title a:hover,
 .rs-latest-couses.orange-color .course-item .bottom-part .btn-part a:hover {
   color: #ff5421;
 }
 .rs-latest-couses.orange-color .course-item:hover {
-  background: #ffffff;
-  border-color: #ffffff;
+  background: #cae4fb;
+  border-color: #cae4fb;
 }
 .rs-featured-courses {
   background: #e7f8fb;
