@@ -3440,6 +3440,10 @@ ul.listing-style.modify li:before {
 .full-width-header.header-style2 .rs-header .menu-area .rs-menu-area {
   justify-content: flex-end;
 }
+.full-width-header.header-style2 .rs-header .menu-area .rs-menu-area .menu-area-academics {
+  margin: 0px 0px 0px 84px;
+  padding: 0px 0px 0px 10px;
+}
 .full-width-header.header-style2
   .rs-header
   .menu-area
