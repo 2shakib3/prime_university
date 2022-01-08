@@ -16451,7 +16451,7 @@ body .modal-backdrop {
   .card-link:after {
   position: absolute;
   font-family: FontAwesome;
-  content: "\f1f7";
+  content: "\f056";
   left: 25px;
   top: 50%;
   transform: translateY(-50%);
@@ -16475,7 +16475,7 @@ body .modal-backdrop {
   .card
   .card-header
   .card-link.collapsed:after {
-  content: "\f0a2";
+  content: "\f055";
 }
 .rs-faq-part.style1 .main-part .faq-content .accordion .card .card-body {
   background: #ffffff;
