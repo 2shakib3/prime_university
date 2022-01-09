@@ -16388,6 +16388,7 @@ body .modal-backdrop {
   text-transform: capitalize;
   background: #21a7d0;
 }
+
 .rs-faq-part .content-part .accordion .card .card-header .card-link.collapsed {
   background: #f9f8ff;
   color: #505050;
@@ -16443,6 +16444,25 @@ body .modal-backdrop {
   font-size: 16px;
   font-weight: 600;
   background: #21a7d0;
+  box-shadow: 0 0 49px 0 rgba(0, 0, 0, 0.08);
+  color: #ffffff;
+}
+
+.rs-faq-part.style1
+  .main-part
+  .faq-content
+  .accordion
+  .card
+  .card-header
+  .card-link-new {
+  display: block;
+  width: 100%;
+  padding: 0 60px;
+  height: 65px;
+  line-height: 65px;
+  font-size: 16px;
+  font-weight: 600;
+  background: #ff5421;
   box-shadow: 0 0 49px 0 rgba(0, 0, 0, 0.08);
   color: #ffffff;
 }
