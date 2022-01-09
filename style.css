@@ -14894,8 +14894,9 @@ body .modal-backdrop {
   padding-right: 5px;
 }
 .rs-event .event-item.home12-style .event-short .content-part .title {
-  font-size: 22px;
-  line-height: 32px;
+  font-size: 15px;
+  line-height: 25px;
+  height: 60px;
   transition: all 0.8s ease;
 }
 .rs-event .event-item.home12-style .event-short .content-part .title a {
