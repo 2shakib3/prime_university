@@ -15435,13 +15435,13 @@ body .modal-backdrop {
   color: #ffffff;
   padding-right: 10px;
   padding-left: 10px;
-  /* margin-bottom: 15px;*/
+  margin-bottom: 15px;
 }
 .rs-gallery.home11-style .gallery-part .gallery-img .gallery-info .btn-part a {
   font-size: 16px;
   line-height: 28px;
   font-weight: 400;
-  color: #ffffff;
+  color: black;
 }
 .rs-gallery.home11-style
   .gallery-part
@@ -15502,10 +15502,10 @@ body .modal-backdrop {
   a {
   color: #ffffff;
 }
-.rs-gallery.home11-style .gallery-part:hover .gallery-img:before {
+/* .rs-gallery.home11-style .gallery-part:hover .gallery-img:before {
   visibility: visible;
   opacity: 0.9;
-}
+} */
 /* ------------------------------------
     22. CTA Section CSS
 ---------------------------------------*/
