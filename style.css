@@ -15477,19 +15477,21 @@ body .modal-backdrop {
   z-index: 1;
 }
 
-
 .rs-gallery.home11-style .gallery-part:hover .content-part {
-  visibility: hidden;
-  opacity: 0;
+  visibility: visible;
+  opacity: 1;
 }
 
 
+/* .rs-gallery.home11-style .gallery-part:hover .gallery-img .club-info {
+  opacity: 1;
+  visibility: visible;
+} */
 
 .rs-gallery.home11-style .gallery-part:hover .gallery-img .gallery-info {
   opacity: 1;
   visibility: visible;
 }
-
 
 .rs-gallery.home11-style
   .gallery-part:hover
@@ -15513,10 +15515,12 @@ body .modal-backdrop {
   visibility: visible;
   opacity: 0.9;
 }
-.rs-gallery.home11-style .gallery-part:hover .gallery-img-club:before {
-  visibility: visible;
+/* .rs-gallery.home11-style .gallery-part:hover .gallery-img:before {
+  visibility: hidden;
   opacity: 0;
-}
+} */
+
+
 /* ------------------------------------
     22. CTA Section CSS
 ---------------------------------------*/
