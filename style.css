@@ -2232,7 +2232,7 @@ ul.listing-style.modify li:before {
   line-height: unset !important;
   color: #ffffff !important;
   font-weight: 400 !important;
-  text-transform: capitalize;
+  text-transform: none;
   padding: 10px 30px !important;
 }
 .full-width-header
