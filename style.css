@@ -2227,6 +2227,7 @@ ul.listing-style.modify li:before {
   margin: 0;
   border: none;
 }
+
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.sub-menu li a {
   height: unset !important;
   line-height: unset !important;
@@ -2235,6 +2236,7 @@ ul.listing-style.modify li:before {
   text-transform: none;
   padding: 10px 30px !important;
 }
+
 .full-width-header
   .rs-header
   .menu-area
@@ -16357,7 +16359,7 @@ body .modal-backdrop {
 }
 .rs-facilities .choose-part .our-facilities .content-part .text-part .title {
   font-size: 24px;
-  line-height: 22px;
+  line-height: 30px;
   font-weight: 800;
   color: #031a3d;
   margin: 0;
