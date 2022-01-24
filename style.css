@@ -74,7 +74,7 @@ img {
   height: auto;
 }
 p {
-  margin: 0 0 26px;
+  margin: 0 0 15px;
   line-height: 1.8;
 }
 h1,
@@ -17220,6 +17220,23 @@ body .modal-backdrop {
 /*----------------------------------------
     31. Cart Section CSS
 ----------------------------------------*/
+.job-info{
+  padding: 30px 60px 30px 30px !important;
+}
+.job-opportunity{
+  margin: 20px left;
+  border-radius: 10px 10px 10px 10px !important;
+
+}
+.job-opportunity p{
+  color: #000;
+
+}
+.table_new{
+  border-bottom-width: 1px !important;
+  border-bottom: 1px solid #111111 !important;
+  border: 1px solid #111111 !important;
+  }
 .rs-cart .cart-wrap table.cart-table {
   border: 1px solid rgba(0, 0, 0, 0.1);
   width: 100%;
