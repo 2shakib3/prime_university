@@ -15765,6 +15765,7 @@ body .modal-backdrop {
   max-width: 700px;
   padding-left: 90px;
   padding-right: 15px;
+  background: none;
 }
 .rs-cta.home11-style {
   background: url(assets/images/cta/home11.jpg);
@@ -16436,6 +16437,7 @@ body .modal-backdrop {
 .rs-faq-part.style1 .main-part .faq-content .accordion .card {
   margin-bottom: 25px;
   border: none;
+  border-radius: 10px 10px 10px 10px;
 }
 .rs-faq-part.style1 .main-part .faq-content .accordion .card:last-child {
   margin-bottom: 0;
@@ -16464,6 +16466,17 @@ body .modal-backdrop {
   background: #21a7d0;
   box-shadow: 0 0 49px 0 rgba(0, 0, 0, 0.08);
   color: #ffffff;
+}
+.rs-faq-part.style1
+  .main-part
+  .faq-content
+  .accordion
+  .card
+  .card-header
+  .card-link {
+    background: #283d67 !important;
+    border-radius: 10px 0px 0px  !important;
+    box-shadow: 0px 0px 10px 0px #cccccc !important;
 }
 
 .rs-faq-part.style1
@@ -16508,7 +16521,7 @@ body .modal-backdrop {
   .card-header
   .card-link.collapsed {
   background: #ffffff;
-  color: #111111;
+  /* color: #111111; */
 }
 .rs-faq-part.style1
   .main-part
